@@ -407,3 +407,16 @@ body {
 .form-container a{
 font-size: 1.2rem;
 }
+
+
+/* ###############footer############### */
+
+#footer h2{
+  text-align: center;
+  padding: 3rem;
+  font-size: 2rem;
+  font-weight: 500;
+  color: #fff;
+  background-color:rgb(65,65,65);
+
+}
